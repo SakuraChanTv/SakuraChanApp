@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Sakura Chan</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!--ring div starts here-->
+<div class="ring">
+  <i style="--clr:#ffc7d2;"></i>
+  <i style="--clr:#ff0057;"></i>
+  <i style="--clr:#fffd44;"></i>
+  <div class="login">
+    <h2>Login</h2>
+    <div class="inputBx">
+      <input type="text" placeholder="Username">
+    </div>
+    <div class="inputBx">
+      <input type="password" placeholder="Password">
+    </div>
+    <div class="inputBx">
+      <input type="submit" value="Sign in">
+    </div>
+    <div class="links">
+      <a href="https://driftking.forumotion.com/profile?mode=sendpassword">Forget Password</a>
+      <a href="https://driftking.forumotion.com/register">Signup</a>
+    		      <a href="https://www.sakurachan.im/store.html">Skip Sign in as Otaku! Sugoi!</a>
+    		
+    </div>
+  </div>
+</div>
+<!--ring div ends here-->
+<!-- partial -->
+  
+</body>
+</html>
