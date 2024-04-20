@@ -1,0 +1,78 @@
+
+				<html>
+				<head>			
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				</head>
+				<title></title>
+  <link rel="stylesheet" href="./dist/style.css">
+
+
+				<body>
+						
+						
+						
+						<span class="container table">
+						<div container="table" type="formaction" class="chatBx" typeform="allow">
+				<div class="chatBx" width="80%" height="500%">
+
+				     <input type="disallow" placeholder="exampleMsg" contenteditable="disallow">
+  <form action="action_page.php" method="POST">
+						
+							<div container="inputField">
+				<div class="inputBx">
+				     <input type="text"
+				placeholder="text">
+				<input type="submit" value="enter">
+				          <button class="submission" contextmenu="submit-form" class-id="" form="type" submit="inputField" button="submit" formaction="onCLickEventListener">
+						<form action="/action_page.html" class="form-container"></form>
+				          </button>
+  
+						
+				</div>
+
+							</span>
+						
+						
+				          				<?php
+				          						
+				          						{ $chatBox: 'contentEditable' placeholder= 'text' contextmenu='viewMessage' onCLickEventListener='sendmessage.html'
+				          							
+				          						}								
+				          								
+				          								
+				       	function { $onCLickEventListener: '$submit'
+				          				user: 'mysql.sql'
+				          				data: 'inputField, text'
+				          				type: 'POST'
+				          				url: 'message.php'
+				          				success:    
+				       			
+				       	}
+				       			
+				       			
+				       			function{submit: $replay
+				          								$submit: 'replay'
+				          								$replay: 'submit'
+				          								$text: 'inputField'
+				          								$type: 'POST'
+				          								$msg: 'message.php'
+				          										
+				          				}
+				          				
+				     />     						
+				          						
+				          						
+				          				<javascript
+	
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</body>
+				</html>
